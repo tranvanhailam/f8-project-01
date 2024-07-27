@@ -144,10 +144,10 @@ a {
     bottom: 0;
     
     width: 584px;
-    height: 619px;
+    /* height: 619px;
     border-radius: 50%;
     object-fit: cover;
-    object-position: center;
+    object-position: center; */
 }
 
 /* Content main */
