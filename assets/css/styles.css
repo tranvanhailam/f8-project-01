@@ -143,11 +143,11 @@ a {
     right: calc((100vw - 1110px) / 2 - 100px);
     bottom: 0;
     
-    width: 584px;
+    /* width: 584px;
     height: 619px;
     border-radius: 50%;
     object-fit: cover;
-    object-position: center;
+    object-position: center; */
 }
 
 /* Content main */
