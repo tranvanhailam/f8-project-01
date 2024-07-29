@@ -643,7 +643,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: rgba(249, 249, 249, 1);
+    background: #F9F9F9;
     width: 28.5px;
     height: 28.5px;
     border-radius: 5px;
